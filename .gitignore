@@ -1,0 +1,7 @@
+.idea/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.DS_Store
+__pycache__/
